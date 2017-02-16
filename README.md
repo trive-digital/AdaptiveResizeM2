@@ -1,5 +1,5 @@
 
-# Resize image with crop funcionality fot Magento 2 extension.
+# Resize image with crop functionality fot Magento 2 extension.
 
 Ported to Magento 2 this https://github.com/obukhow/AdaptiveResize Magento 1 extension
 
