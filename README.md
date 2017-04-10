@@ -1,7 +1,7 @@
 
-# Resize image with crop functionality fot Magento 2 extension.
+#Image Resize and Crop for Magento 2
 
-Ported to Magento 2 this https://github.com/obukhow/AdaptiveResize Magento 1 extension
+Based on (AdaptiveResize)[https://github.com/obukhow/AdaptiveResize] for Magento 1.
 
 Examples:
   1.  $this->helper('Trive\AdaptiveResize\Helper\Image')->init($_product)->adaptiveResize(240,300);
