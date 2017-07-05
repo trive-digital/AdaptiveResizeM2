@@ -17,7 +17,7 @@
     "autoload": {
         "files": [ "registration.php" ],
         "psr-4": {
-          "Trive\\Revo\\": ""
+          "Trive\\AdaptiveResize\\": ""
         }
     }
 
